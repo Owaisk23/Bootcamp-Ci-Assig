@@ -30,4 +30,4 @@ jobs:
     - name: Installing Surge
       run: npm install -g surge
     - name: Deploying using surge
-      run: surge ./ pc-centrebyowais.surge.sh --token $ {{secrets.SURGE_TOKEN}}
+      run: surge ./ pc-centrebyowais.surge.sh --token ${{ secrets.SURGE_TOKEN }}
