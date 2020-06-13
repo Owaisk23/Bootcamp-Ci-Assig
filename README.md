@@ -5,4 +5,4 @@ It's my bootcamp assignment. In this I'm deploying simple static web-page using 
 A webpage same as Daraz or any other marketing website.
 
 ## URL-webpage
-* You may vist website at this url `http://pc-centrebyowais.surge.sh/`
+* You may vist website at this url `http://pccentre-by-owais.surge.sh/`
